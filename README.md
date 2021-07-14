@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Icelaceon
-- 👀 I’m interested in Making so cool thing
+- 👀 I’m interested in Making some cool thing
 - 🌱 I’m currently learning Python,C/C++
 - 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me : NOT OPEN 
